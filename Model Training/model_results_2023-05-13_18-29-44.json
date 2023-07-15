@@ -1,0 +1,1 @@
+{"best_params": {"classifier__C": 0.1, "classifier__penalty": "l2", "classifier__solver": "newton-cg", "vectorizer__min_df": 10}, "metrics": {"accuracy": 0.9890539483971853, "precision": 1.0, "recall": 0.9890539483971853, "f1": 0.9944968553459119}}
